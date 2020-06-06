@@ -3,7 +3,7 @@
   jquery
   template-web 模板语法
   node
-  mongoose
+  Express
   MongoDB
 
 管理员：
